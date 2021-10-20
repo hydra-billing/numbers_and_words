@@ -18,6 +18,7 @@ require 'numbers_and_words/translations/et'
 require 'numbers_and_words/translations/se'
 require 'numbers_and_words/translations/es'
 require 'numbers_and_words/translations/lv'
+require 'numbers_and_words/translations/az'
 require 'numbers_and_words/translations/lt'
 require 'numbers_and_words/translations/de'
 require 'numbers_and_words/translations/pt'
@@ -27,6 +28,7 @@ require 'numbers_and_words/translations/cs'
 require 'numbers_and_words/translations/vi'
 require 'numbers_and_words/translations/hy'
 require 'numbers_and_words/translations/kz'
+require 'numbers_and_words/translations/bg'
 
 module NumbersAndWords
   module Translations
