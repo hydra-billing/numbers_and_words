@@ -10,6 +10,7 @@ require 'numbers_and_words/translations/en'
 require 'numbers_and_words/translations/en-GB'
 require 'numbers_and_words/translations/ua'
 require 'numbers_and_words/translations/tr'
+require 'numbers_and_words/translations/az'
 require 'numbers_and_words/translations/fr'
 require 'numbers_and_words/translations/nl'
 require 'numbers_and_words/translations/it'
@@ -28,6 +29,7 @@ require 'numbers_and_words/translations/vi'
 require 'numbers_and_words/translations/hy'
 require 'numbers_and_words/translations/kz'
 require 'numbers_and_words/translations/da'
+require 'numbers_and_words/translations/bg'
 
 module NumbersAndWords
   module Translations

@@ -15,6 +15,7 @@ require 'numbers_and_words/strategies/array_joiner/languages/pt-BR'
 require 'numbers_and_words/strategies/array_joiner/languages/cs'
 require 'numbers_and_words/strategies/array_joiner/languages/vi'
 require 'numbers_and_words/strategies/array_joiner/languages/nl'
+require 'numbers_and_words/strategies/array_joiner/languages/bg'
 
 module NumbersAndWords
   module Strategies
