@@ -1,6 +1,7 @@
+
 module NumbersAndWords
   module Translations
-    class Ru < Base
+    class Bg < Base
       include NumbersAndWords::Translations::Families::Cyrillic
       include NumbersAndWords::Translations::Extensions::FractionSignificance
 
