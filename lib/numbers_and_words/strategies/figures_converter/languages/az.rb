@@ -3,7 +3,9 @@ module NumbersAndWords
     module FiguresConverter
       module Languages
         class Az < Base
-          include Translations::Families::Latin
+          def tens_with_ones
+            super(separator: ' ')
+          end
 
           private
 
